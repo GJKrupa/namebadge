@@ -1,0 +1,1 @@
+Name/status badge using ESP32 (Wemos Wifi & Bluetooth Battery) development board with Waveshare 2.9" eInk display.

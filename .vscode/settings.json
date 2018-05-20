@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/krupagj/.platformio/penv/bin:/Users/krupagj/.platformio/penv:/Users/krupagj/.nvm/versions/node/v9.2.1/bin:/Users/krupagj/python-virtualenv/python2/bin:/Users/krupagj/.sdkman/candidates/scala/current/bin:/Users/krupagj/.sdkman/candidates/sbt/current/bin:/Users/krupagj/.sdkman/candidates/maven/current/bin:/Users/krupagj/.sdkman/candidates/kscript/current/bin:/Users/krupagj/.sdkman/candidates/java/current/bin:/Users/krupagj/.sdkman/candidates/groovy/current/bin:/Users/krupagj/.sdkman/candidates/grails/current/bin:/Users/krupagj/.sdkman/candidates/gradle/current/bin:/Users/krupagj/.zgen/paulirish/git-open-master:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/VMware Fusion.app/Contents/Public:/usr/local/MacGPG2/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Wireshark.app/Contents/MacOS:/Users/krupagj/.zgen/StackExchange/blackbox-master/bin:/Users/krupagj/Library/Python/2.7/bin:/Users/krupagj/.local/bin",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
